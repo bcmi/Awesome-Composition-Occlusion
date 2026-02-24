@@ -7,7 +7,13 @@ image composition ([object insertion](https://github.com/bcmi/Awesome-Object-Ins
 ## Contributing
 
 Contributions are welcome.  If you wish to contribute, feel free to send a pull request. If you have suggestions for new sections to be included, please raise an issue and discuss before sending a pull request.
- 
+
+## Online Demo
+
+Try this [online demo](http://libcom.ustcnewly.com/) for image composition (object insertion) built upon [libcom](https://github.com/bcmi/libcom) toolbox and have fun!
+
+[![]](https://github.com/user-attachments/assets/87416ec5-2461-42cb-9f2d-5030b1e1b5ec)
+
 ## Papers
 
 + Lingxiao Li, Kaixiong Gong, Weihong Li, Xili Dai, Tao Chen, Xiaojun Yuan, Xiangyu Yue: "*BIFRÖST: 3D-Aware Image compositing with Language Instructions.*" NeurIPS (2024) [[arXiv]](https://arxiv.org/pdf/2410.19079) [[code]](https://github.com/lingxiao-li/Bifrost)
