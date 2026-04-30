@@ -15,7 +15,7 @@ Try this [online demo](http://libcom.ustcnewly.com/) for image composition (obje
 [![]](https://github.com/user-attachments/assets/87416ec5-2461-42cb-9f2d-5030b1e1b5ec)
 
 ## Papers
-
++ Zan Li, Bingnan Wang, Wencheng Wang, Fei Hou: "*Place Anywhere: Learning Spatial Reasoning for Occlusion-Aware Image Composition.*" ICASSP (2026) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11463305) [[code]](https://github.com/Zannnn/autoComposition)
 + Lingxiao Li, Kaixiong Gong, Weihong Li, Xili Dai, Tao Chen, Xiaojun Yuan, Xiangyu Yue: "*BIFRÖST: 3D-Aware Image compositing with Language Instructions.*" NeurIPS (2024) [[arXiv]](https://arxiv.org/pdf/2410.19079) [[code]](https://github.com/lingxiao-li/Bifrost)
 + Jonghyun Lee, Hansam Cho, Youngjoon Yoo, Seoung Bum Kim, Yonghyun Jeong: "*Compose and Conquer: Diffusion-Based 3D Depth Aware Composable Image Synthesis.*" ICLR (2024) [[pdf]](https://arxiv.org/html/2401.09048v1) [[code]](https://github.com/tomtom1103/compose-and-conquer)
 + Zan Li, Wencheng Wang, Fei Hou: "*Image Composition with Depth Registration.*" IJCAI (2023) [[paper]](https://www.ijcai.org/proceedings/2023/0126.pdf)
